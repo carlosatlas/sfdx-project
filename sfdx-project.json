@@ -4,6 +4,7 @@
       "path": "force-app",
       "default": true
     }
+
   ],
   "name": "sfdx-chan",
   "namespace": "",
