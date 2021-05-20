@@ -3,8 +3,8 @@
     {
       "path": "force-app",
       "default": true
-    },
-    {"path": "assets"}
+    }
+
   ],
   "name": "sfdx-chan",
   "namespace": "",
